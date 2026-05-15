@@ -1,0 +1,45 @@
+# Built objects
+*.pyc
+*.obj
+*.o
+*.a
+*.lib
+*.so
+*.dll
+*.exe
+
+# Gradle files
+.gradle/
+build/
+*/build/
+
+# IDE files
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Local configuration
+local.properties
+
+# Log files
+*.log
+
+# Android Studio / IntelliJ files
+.navigation/
+captures/
+.externalNativeBuild/
+.cxx/
+cmake-build-debug/
+cmake-build-release/
+
+# Device/Emulator files
+*.apk
+*.ap_
+*.dex
+*.class
+
+# Other
+.DS_Store
+java_pid*.hprof
