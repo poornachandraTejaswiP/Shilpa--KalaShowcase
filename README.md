@@ -107,7 +107,7 @@ com.example.shilpakala
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/ShilpaKala-Showcase.git
+git clone https://github.com/poornachandraTejaswiP/Shilpa--KalaShowcase.git
 ```
 
 ## 2️⃣ Open in Android Studio
